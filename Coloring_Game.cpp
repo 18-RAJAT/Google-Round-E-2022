@@ -240,7 +240,6 @@ freopen("output.txt","w",stdout);  //file output.txt is opened in writing mode i
         // test();
         ll n;cin>>n;
         cout<<"Case"<<" "<<"#"<<i<<":"<<" "<<ceil(n*1.0/5)<<nl;
-
     }
     return 0;
 }
