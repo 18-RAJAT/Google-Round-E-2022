@@ -239,7 +239,6 @@ int solve(int t)
         arr[i] = a;
         pq.push(a);
     }
-
     vector<ll> ans(n);
     for (ll i = 0; i < n; i++)
     {
